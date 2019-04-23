@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1556055271 source:c:\users\lenovo\desktop\polygon_clipping\main.cpp
+	<tchar.h>
+	<windows.h>
+	<bits/stdc++.h>
+
